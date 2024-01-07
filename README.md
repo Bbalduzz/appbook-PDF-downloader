@@ -8,7 +8,7 @@ Simple script to downlaod high quality pdf from appbook.
   - install pip or pip3
 - install required imports
   - `pip install requests`
-  - `pip install bs4`
+  - `pip install tqdm`
   - `pip install fitz`
 - run `python3/py zncDL.py`
 
